@@ -1,0 +1,9 @@
+Here are a few Questions you should ask yourself when you run into this problem:
+is the Excel sheet saved in a format that supports formulas?
+Are there any special characters in front of your number?
+are there any hidden characters or spaces in your cells?
+are your numbers formatted as text values? if so, convert them to numbers.
+Remember to match all closed and open Parentheses.
+
+https://support.microsoft.com/en-us/office/detect-errors-in-formulas-3a8acca5-1d61-4702-80e0-99a36a2822c1
+Listed above is an article which indicates fixes and problems for formulas in Excel. It should be useful in figuring out this and future formula problems you may run into.
